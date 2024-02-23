@@ -6,7 +6,7 @@ Run `npm install`
 ## Step 2
 Run `npx react-native init NewAppName`
 
-# Step 3
+## Step 3
 Build your app with ease and confidence!
 
 
